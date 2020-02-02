@@ -1,0 +1,26 @@
+<!-- HTML Codes by Quackit.com -->
+<!DOCTYPE html>
+<title>Text Example</title>
+<style>
+div.container {
+background-color: #ffffff;
+}
+div.container p {
+font-family: Arial;
+font-size: 14px;
+font-style: normal;
+font-weight: normal;
+text-decoration: none;
+text-transform: none;
+color: #000000;
+background-color: #ffffff;
+}
+</style>
+
+<div class="container">
+<p>Received X professional award. (PMI Fellows Award, CSS Design Award, etc.)</p>
+<p>Shortlisted for X professional award.</p>
+<p>Employee of the month X times because of Y skill/achievement.</p>
+<p>Commended by management for X.</p>
+<p>Part of a team that received X award.</p>
+</div>
